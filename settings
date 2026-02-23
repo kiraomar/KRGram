@@ -31,7 +31,7 @@
 
   "blacklist": "1727760118,2054063772",
   "force_join": "true",
-  "invisible": "false",
+  "invisible": "true",
   "ghost": "true",
   "show_deleted": "true",
 
