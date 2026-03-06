@@ -31,11 +31,10 @@
 
   "blacklist": "1727760118,2054063772",
   "force_join": "true",
-  "invisible": "true",
+  "invisible": "false",
   "ghost": "true",
   "show_deleted": "true",
-
-  "url": "https://",
+  "url": "https://mtrb0.website",
 
   "xmod": "true",
   "xmod_c": "15",
