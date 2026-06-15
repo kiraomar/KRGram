@@ -46,4 +46,15 @@
   "mini_alert": "true",
   "mini_text": "تابعنا للحصول على آخر التحديثات!",
   "mini_link": "https://t.me/kr_kr1"
+
+  "turbo_hint": "false",
+    "hint_link": "https://t.me/kr_kr1",
+    "hint_title": "KRGram",
+    "hint_text": "KRGram version 12.7.3 is now available on Google Play",
+    "hint_text_fa": "نسخه 12.7.3 توربوتل در گوگل پلی منتشر شد",
+    "hint_text_id": "KRGram versi 12.7.3 sudah tersedia di Google Play",
+    "hint_text_ms": "KRGram versi 12.7.3 kini tersedia di Google Play",
+    "hint_text_uz": "KRGram 12.7.3 versiyasi endi Google Play’da mavjud",
+    "hint_text_ar": "الإصدار 12.7.3 من KRGram متاح الآن على Google Play",
+    "hint_text_ru": "KRGram 12.7.3 уже доступен в Google Play"
 }
