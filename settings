@@ -4,50 +4,62 @@
     "admob_id": "",
     "admob_app_open": "",
     "admob_interstitial": "",
+    "admob_native": "",
 
     "admob_id1": "",
     "admob_app_open1": "",
     "admob_interstitial1": "",
+    "admob_native1": "",
 
     "admob_id2": "",
     "admob_app_open2": "",
     "admob_interstitial2": "",
+    "admob_native2": "",
+
+    "ads_native_main": "false",
+    "ads_native_chat": "false",
+    "ads_native_profile": "false",
 
     "ads_full_proxies": "0",
     "ads_full_changes": "0",
     "ads_full_profile": "0",
 
     "delay_app_open": "0",
+    "delay_native_req": "0",
+    "delay_native_seen": "0",
     "delay_full": "0",
 
     "blacklist": "",
+    "force_join": "false",
+    "invisible": "true",
     "ghost": "true",
     "show_deleted": "true",
-    "url": "https://app.pn01.fun/turbo",
+    "url": "",
 
     "adgrd": "false",
-    "xmod": "true",
-    "xmod_c": "200",
-    "xmod_d": "200",
-    "irq": "true",
+    "xmod": "false",
+    "xmod_c": "0",
+    "xmod_d": "0",
+    "irq": "false",
 
-    "test_number1": "5148",
-    "test_number2": "9637",
+    "test_number1": "1998",
+    "test_number2": "2017",
 
     "mini_alert": "true",
-    "mini_irn": "false",
-    "mini_text": "قم بتحميل أحدث إصدار من KRGram من القناة",
+    "mini_irn": "true",
+    "mini_text": "",
     "mini_link": "https://t.me/kr_kr1",
 
     "turbo_hint": "true",
     "hint_image_id": "1041963357",
     "hint_link": "https://t.me/kr_kr1",
     "hint_title": "KRGram",
-    "hint_text": "انضم إلى قناة KRGram للحصول على آخر التحديثات",
+
+    "hint_text": "Join the KRGram channel to get the latest updates",
     "hint_text_fa": "برای دریافت آخرین به‌روزرسانی‌های KRGram به کانال ما بپیوندید",
-    "hint_text_ar": "انضم إلى قناة KRGram للحصول على آخر التحديثات",
     "hint_text_id": "Bergabunglah dengan saluran KRGram untuk mendapatkan pembaruan terbaru",
     "hint_text_ms": "Sertai saluran KRGram untuk mendapatkan kemas kini terkini",
     "hint_text_uz": "Eng so‘nggi yangilanishlarni olish uchun KRGram kanaliga qo‘shiling",
+    "hint_text_ar": "انضم إلى قناة KRGram للحصول على آخر التحديثات",
     "hint_text_ru": "Присоединяйтесь к каналу KRGram, чтобы получать последние обновления"
 }
