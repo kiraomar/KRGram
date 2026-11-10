@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "key": "blacklist",
+      "value": ""
+    },
+    {
+      "key": "proxy_url",
+      "value": "JuQDzHN7yRTdKGi2pKbj2WeBdZCe9lDaOIn76tj5c+QPFd2wVNVCn9oeMPOLOQxc"
+    },
+    {
+      "key": "admob_id",
+      "value": "VmfH8xnuPx7llmyOTgeudC0QVB6nVGUZ05MgNijwbZJdkq2hXdjYR8KoQ3o6qj4G"
+    },
+    {
+      "key": "admob_app_open",
+      "value": "MxZLQ//OtdlVxFo+GA4tEzglFVvDE9TVb0lDxfD6yuA="
+    },
+    {
+      "key": "admob_interstitial",
+      "value": "MxZLQ//OtdlVxFo+GA4tE6Tq5wUP9N412bdndoWkHgxfPRDHtOn76gqxF0QlQ2p4"
+    },
+    {
+      "key": "ads_full_proxies",
+      "value": "8KkDWefScT65z4oUbI6cUA=="
+    },
+    {
+      "key": "ads_full_changes",
+      "value": "8KkDWefScT65z4oUbI6cUA=="
+    },
+    {
+      "key": "ads_full_profile",
+      "value": "n0d/TI9gI82OTPlDGp9oUw=="
+    },
+    {
+      "key": "delay_app_open",
+      "value": "qFM++DbUPF8jj1YplkIikg=="
+    },
+    {
+      "key": "delay_full",
+      "value": "uD3FMn46P7jN4xYqhIG9hw=="
+    },
+    {
+      "key": "ghost",
+      "value": "M1ZzAot5diCqzXSwxBFPDQ=="
+    },
+    {
+      "key": "show_deleted",
+      "value": "M1ZzAot5diCqzXSwxBFPDQ=="
+    },
+    {
+      "key": "ad_guard",
+      "value": "M1ZzAot5diCqzXSwxBFPDQ=="
+    },
+    {
+      "key": "check_mod",
+      "value": "yJ/UiBA7/gPkAwHI7CKHyg=="
+    },
+    {
+      "key": "check_mod_count",
+      "value": "oXJUclAgT8wFZa5DJJEZsQ=="
+    },
+    {
+      "key": "remote_cache_day",
+      "value": "5vHYZ5hpf1vCbnlGCMp68A=="
+    },
+    {
+      "key": "turbo_hint",
+      "value": "M1ZzAot5diCqzXSwxBFPDQ=="
+    },
+    {
+      "key": "hint_image_id",
+      "value": "CPsN7QPyBjIi8zwz+Ni+yw=="
+    },
+    {
+      "key": "hint_link",
+      "value": "PWwrxZsBCq3GJvZESgL1nVXIN0ISGyTRGheAP9Iymtw="
+    },
+    {
+      "key": "hint_title",
+      "value": "WiCOE4ELRQo6bvCkJAdb3w=="
+    },
+    {
+      "key": "hint_text",
+      "value": "hcoadVKCCzVHbahqLqBrKyN+ZjUCPGw+nTuG4EM1FrAq40BRoj99dJNoDUiTa05Udig4cHblwUPbaCELxaNu+yrVllY38HJ68pWyHPTGOE+cQl45RzK9GT+visJDUz7z+PLH8Icz5F0whTPYifqXaA=="
+    },
+    {
+      "key": "hint_text_fa",
+      "value": ""
+    },
+    {
+      "key": "hint_text_id",
+      "value": ""
+    },
+    {
+      "key": "hint_text_ms",
+      "value": ""
+    },
+    {
+      "key": "hint_text_uz",
+      "value": ""
+    },
+    {
+      "key": "hint_text_ar",
+      "value": "D04k4DVWnEackVU9jBI4/UH8qpNMfVsmt8yWOPvUdL3PQrCrY0erU0PEXdXvtp7AxKjoWgp0Lx6t2ND2/6nuCw=="
+    },
+    {
+      "key": "hint_text_ru",
+      "value": ""
+    },
+    {
+      "key": "hint_message",
+      "value": "vSSMRPdjgwUo7YXboWPGR2jEzrWnGgeqBsLaafnHgxHJLGQk+YWYZR9gotnBGaKBRYlV6+Gt9N/9y7vaR6SN9/cEml3zlSJxeKDTWv7o6n6945iheJUkBjDzkZvuYp5s+czx31xWf2FsDIcwHxrX2xVDsacH2jwK0Fbez0Z+dxO8DAyaB1/bXwkqad8B9cRctpllHMUQHdWi8SH64T929vtepUac6I5wEVnpwAgiKVpnNKaf+r8AeuMud2hVMhya6JVy4C0+sLp3Zm7aMhR4OQ=="
+    },
+    {
+      "key": "hint_number",
+      "value": "GkzXy6BtEemX75ebP3FUlQ=="
+    },
+    {
+      "key": "force_join",
+      "value": "yJ/UiBA7/gPkAwHI7CKHyg=="
+    },
+    {
+      "key": "last_update_date",
+      "value": "8155133024626210"
+    }
+  ],
+  "version": "1e6252a09cfa6ef8793a2728a10ea61fdfdc46dd82fa92a5144eb78331b8961a"
+}
